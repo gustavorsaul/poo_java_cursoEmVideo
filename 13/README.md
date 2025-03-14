@@ -9,7 +9,11 @@
 
 ### Tipos de polimorfismo
 
-- Sobreposição
-    - Acontece quando substituímos um método de uma superclasse na sua subclasse, usando a mesma assinatura
+- Sobrecarga
+    - Assinaturas diferentes na mesma classe
+    - Exemplo: 
+        - `public void metodo()`
+        - `public void metodo(int a)`
+        - `public void metodo(int a, int b)`
 
 
